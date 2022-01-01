@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
+<h2>Hello World! This is a test to test Jenkins v2 Code Pipeline with Docker</h2>
 </body>
 </html>
